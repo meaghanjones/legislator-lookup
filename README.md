@@ -1,7 +1,6 @@
 # Legislator-lookup
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This is a project for Epicodus to practice using API calls. The legislator-api app is a simple lookup of legislators. Users can enter a zip and see their legislators from data collected by the Sunlight Foundation. 
 
 ## Prerequisites
 
@@ -38,10 +37,6 @@ Make use of the many generators for code, try `ember help generate` for more det
 
 * `ember build` (development)
 * `ember build --environment production` (production)
-
-### Deploying
-
-Specify what it takes to deploy your app.
 
 ## Further Reading / Useful Links
 
